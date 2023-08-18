@@ -1,5 +1,5 @@
 const name = {
   firstName: "John",
-  secondName: "Wilson",
+  lastName: "Wilson",
 };
 exports.name = name;
